@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(230,190,170,.7);
+    background-image:  url(girl.png);
+    background-repeat: no-repeat
+    
+}
+h1{
+    color: #dc8ba7;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 5rem;
+    margin: 3rem 6rem 3rem 40rem;
+    
+}
+p{
+    font-size: 1.5rem;
+    color: #6e5064;
+}
+div{
+    color: #6e5064;
+    font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Kite One', sans-serif;
+font-family: 'Kiwi Maru', serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Raleway', sans-serif;
+}
